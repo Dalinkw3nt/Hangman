@@ -1,5 +1,8 @@
 # Hangman
-A Hangman Game for my daughter.
+A Hangman Game done using pyGame.</br>
+
+For my daughter.</br>
+
 Created from repl.it
 <img src = "hangmanGame.JPG">
 </br>
