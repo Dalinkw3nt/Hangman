@@ -10,9 +10,7 @@ jobs:
       - checkout
       - python/load-cache
       - python/save-cache
-      - run:
-          command: ./manage.py test
-          name: Test
+
 
 workflows:
   main:
